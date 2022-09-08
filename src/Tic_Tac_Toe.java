@@ -1,5 +1,5 @@
-		import java.util.*;
-public class Tic_Tac_Toe {
+              import java.util.*;
+               public class Tic_Tac_Toe {
 			static String[] board;
 			static String turn;
 			static String checkWinner()
